@@ -1,0 +1,10 @@
+{
+  "name": "push-notifications",
+  "version": "1.0.1",
+  "description": "Minimum AppGyver client versions required:",
+  "publishConfig": {
+    "registry": "https://npm.wever.tech"
+  },
+  "author": "",
+  "license": "ISC"
+}
